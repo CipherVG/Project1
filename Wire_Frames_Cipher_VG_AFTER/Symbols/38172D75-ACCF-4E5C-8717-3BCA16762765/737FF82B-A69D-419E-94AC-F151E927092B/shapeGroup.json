@@ -74,16 +74,16 @@
           "_class": "gradient",
           "elipseLength": 2.321358343995277,
           "from": "{0.5, 0}",
-          "gradientType": 1,
+          "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 0.9686274509803925,
-                "red": 0.1294117647058823
+                "blue": 0.9411764705882353,
+                "green": 0.1254901960784314,
+                "red": 1
               },
               "position": 0
             },
@@ -92,9 +92,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3568627450980392,
-                "green": 0.1058823529411764,
-                "red": 0
+                "blue": 1,
+                "green": 0.9686274509803925,
+                "red": 0.1294117647058823
               },
               "position": 1
             }

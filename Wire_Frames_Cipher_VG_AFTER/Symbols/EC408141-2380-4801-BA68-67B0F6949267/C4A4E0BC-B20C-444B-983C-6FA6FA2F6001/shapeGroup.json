@@ -64,12 +64,12 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.9019607843137255,
-          "red": 0.9176470588235294
+          "alpha": 0.4158740942028986,
+          "blue": 1,
+          "green": 0.9686274509803925,
+          "red": 0.1294117647058823
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -80,10 +80,10 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0.5490196078431373,
-                "red": 1
+                "alpha": 0.779693161231884,
+                "blue": 1,
+                "green": 0.9686274509803925,
+                "red": 0.1294117647058823
               },
               "position": 0
             },
@@ -91,7 +91,7 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 1,
+                "alpha": 0.775390625,
                 "blue": 0.9411764705882353,
                 "green": 0.1254901960784314,
                 "red": 1
