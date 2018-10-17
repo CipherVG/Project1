@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7FF3D0B0-C937-47A8-AC18-21480BEB67DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 356,
+    "width": 397,
+    "x": -11,
+    "y": 203
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cell/sign_up_screen",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "748ECABA-AA83-4751-B217-B8EA8E4B8F91",
+      "overrideName": "2C7860FB-A7EA-4794-BC2D-F614546E5AA2/A168F28A-E139-4AE7-9B4E-7579DDBCF871_stringValue",
+      "value": "SUBMIT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38D750AE-1ABF-447E-ACBD-EBC8A14A836E",
+      "overrideName": "0A3756A9-5127-4E8B-967F-F33B4D62B6AD/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0FD8AC0-1B15-40EA-B2AA-BDC4B823C913",
+      "overrideName": "2096318E-195E-4452-9B2A-36C34523F5B2/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7A9CA2C-49FC-4669-826D-E6C75E0A827C",
+      "overrideName": "6B5F11DF-2217-4D88-9F4D-49F69ABF9950/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05220CDD-86F8-41ED-B59E-DE874B517F80",
+      "overrideName": "6B5F11DF-2217-4D88-9F4D-49F69ABF9950/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B22717FB-D17D-4EBB-A522-FDF0AA68600C",
+      "overrideName": "2E521362-014B-4DA7-8159-F155DA355374/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4A38B3F-56D9-4D2F-852E-6F3D44D5B4F4",
+      "overrideName": "2E521362-014B-4DA7-8159-F155DA355374/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C4CA962-C9C0-46D3-A38C-41993DD079E1",
+      "overrideName": "2096318E-195E-4452-9B2A-36C34523F5B2/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A4EDA92-FB2E-48C4-AAD7-B04BF6D42749",
+      "overrideName": "0A3756A9-5127-4E8B-967F-F33B4D62B6AD/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Confirm Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BBF4F30-E602-4215-99A3-53C26DB04AA9",
+  "verticalSpacing": 0
+}

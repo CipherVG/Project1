@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "CCC90826-24F8-4FBB-89FD-6FB80ADBCCFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 271,
+    "width": 397,
+    "x": -11,
+    "y": 183
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cell/forgot_password_box",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "978836B0-48C5-4D6F-B29D-21065311DE45",
+      "overrideName": "E0865544-B7B9-4C29-B2BA-F3DD1DBC0F32/A168F28A-E139-4AE7-9B4E-7579DDBCF871_stringValue",
+      "value": "SUBMIT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBC136D1-9342-4AC2-BD84-9DFB1F9C5C9F",
+      "overrideName": "E006F05F-CACF-4698-9355-71D2D3460A54/A168F28A-E139-4AE7-9B4E-7579DDBCF871_stringValue",
+      "value": "Sign Up"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F623DB5E-0757-4F0B-AEA5-418A98B60F7F",
+      "overrideName": "1461CF31-2A27-456B-A8F8-C358F9973056/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA036E4F-9838-484A-9C88-CDDC4327A516",
+      "overrideName": "0F8EE09E-9FEC-4EF7-97D0-B3AF9DB2A11C/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "249B1390-CADD-4407-8D27-874DCC01A91C",
+      "overrideName": "0F8EE09E-9FEC-4EF7-97D0-B3AF9DB2A11C/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6380B13D-F552-41CA-A4D9-493C274975B6",
+      "overrideName": "1461CF31-2A27-456B-A8F8-C358F9973056/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA531781-0907-466E-91A2-3A241AD2DC6F",
+  "verticalSpacing": 0
+}

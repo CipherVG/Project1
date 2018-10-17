@@ -1,0 +1,117 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "8587CAF5-DE36-47B8-B13A-A416484AB711",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "2FF5D89D-E937-41FA-B669-D799CF0B5BB8"
+    },
+    {
+      "class": "artboard",
+      "id": "067CF3C9-BD24-40E9-8BB7-A482392936EF"
+    },
+    {
+      "class": "artboard",
+      "id": "EE01D002-1701-4C8C-98F5-46BED95A9F30"
+    },
+    {
+      "class": "artboard",
+      "id": "2A1DA9A0-B169-4009-B24C-5E515B1B52AF"
+    },
+    {
+      "class": "artboard",
+      "id": "E53FF13A-1E10-4B51-BACB-64757A61A41D"
+    },
+    {
+      "class": "artboard",
+      "id": "12018A0B-E5D1-4BAE-9FD5-F3BB9F52687E"
+    },
+    {
+      "class": "artboard",
+      "id": "541B2D1B-6E3A-4C5C-9210-8A58E990109A"
+    },
+    {
+      "class": "artboard",
+      "id": "1A31A736-1FDF-4D28-BD61-93AF244B0A26"
+    },
+    {
+      "class": "bitmap",
+      "id": "130DB44E-4D03-4217-8726-0B255CFEC38A"
+    },
+    {
+      "class": "bitmap",
+      "id": "95FECEA8-A3A3-49CF-9AD6-2489EB39B344"
+    },
+    {
+      "class": "bitmap",
+      "id": "B684B4E5-DA28-4801-B051-9B8DA6C770B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB0C6CEE-5D4C-4EA8-870B-D6346718F9FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D74A5E24-3302-4651-BA3D-BD74A3C375EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93C82D61-EF72-4445-823A-DFB40229DEA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C55675C4-84EC-4E03-8B75-44DAC2E00EE3"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

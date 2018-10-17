@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "43CE5999-24DE-4054-9763-6503C8F1BF5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 291,
+    "width": 397,
+    "x": -11,
+    "y": 207
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cell/change_password_box",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFF1BF08-8A8D-406B-AC88-71C050C1BE21",
+      "overrideName": "BB3B22A7-5372-49AE-B0B0-5A8D7A6FC4A3/A168F28A-E139-4AE7-9B4E-7579DDBCF871_stringValue",
+      "value": "SUBMIT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C191A97E-BDF0-43CB-A01E-0600EAB89F1D",
+      "overrideName": "EAB73A9B-790F-45BF-8DBA-6720C9A0C986/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F314045D-6BF8-4FB6-A4AC-1E1BFF1737B7",
+      "overrideName": "EAB73A9B-790F-45BF-8DBA-6720C9A0C986/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "Confirm Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA6D2CC4-F710-42B5-8C6E-8C0ED7875C02",
+      "overrideName": "6C4C2F00-7400-4B80-A10E-2CAD360FCF82/E750F36C-4D48-4156-9EA2-D5E889BC0A1A_stringValue",
+      "value": "XXXXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C03BC67-B88E-44F6-9D64-7B6471C8A35A",
+      "overrideName": "6C4C2F00-7400-4B80-A10E-2CAD360FCF82/B7FE9389-2BD9-488D-91F5-E348D7CEE17E_stringValue",
+      "value": "New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC0EA797-B2F2-4B73-A1E4-C954AF55E4B1",
+  "verticalSpacing": 0
+}
